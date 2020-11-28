@@ -1,0 +1,5626 @@
+{
+    "coins": 24,
+    "name": "xD Boy",
+    "cur_region": "Kanto",
+    "level": 1,
+    "cxp": 0,
+    "nxp": 500,
+    "pstorage": 100,
+    "balls": {
+        "pballs": 5,
+        "uballs": 0,
+        "mballs": 5
+    },
+    "sorted": "p_p",
+    "sortby": "Number By Ascending",
+    "pcatch": 58,
+    "legcatch": 0,
+    "shinycatch": 0,
+    "pkilled": 0,
+    "tpokes": 52,
+    "degree": "Trainer",
+    "degreemult": 1,
+    "xcash": 0,
+    "deems": 0,
+    "eggs": {},
+    "teggs": 0,
+    "teggshatched": 0,
+    "hatching": {},
+    "maxhatch": 1,
+    "badges": [],
+    "gems": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spatk": 0,
+        "spdef": 0,
+        "speed": 0,
+        "rbow": 0
+    },
+    "pokes": {
+        "1": {
+            "name": "Dugtrio",
+            "level": 26,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 410,
+            "hp": 410,
+            "atk": 11715,
+            "def": 5858,
+            "spatk": 5858,
+            "spdef": 8200,
+            "speed": 1271,
+            "total": 33312,
+            "types": [
+                "ground"
+            ],
+            "gender": "Female",
+            "genders": "\u2640\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 27040,
+            "tivs": 68,
+            "hpiv": 11,
+            "atkiv": 11,
+            "defiv": 11,
+            "spatkiv": 11,
+            "spdefiv": 11,
+            "speediv": 13,
+            "biv": 11,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 9,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Earthquake",
+                    "dmg": 100,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "4": {
+                    "name": "Dig",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "5": {
+                    "name": "Tri-attack",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "special"
+                },
+                "6": {
+                    "name": "Sludge-bomb",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "special"
+                },
+                "7": {
+                    "name": "Uproar",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "special"
+                },
+                "8": {
+                    "name": "Earth-power",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "special"
+                },
+                "9": {
+                    "name": "Sludge-wave",
+                    "dmg": 95,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "special"
+                }
+            },
+            "nick": "kek"
+        },
+        "2": {
+            "name": "Nidorina",
+            "level": 92,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 258,
+            "hp": 258,
+            "atk": 763,
+            "def": 824,
+            "spatk": 676,
+            "spdef": 676,
+            "speed": 55,
+            "total": 3252,
+            "types": [
+                "poison"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 338560,
+            "tivs": 8,
+            "hpiv": 3,
+            "atkiv": 1,
+            "defiv": 1,
+            "spatkiv": 1,
+            "spdefiv": 1,
+            "speediv": 1,
+            "biv": 1,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Ice-beam",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "ice",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "5": {
+                    "name": "Thunderbolt",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "electric",
+                    "class": "special"
+                },
+                "6": {
+                    "name": "Dig",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Sludge-bomb",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "special"
+                },
+                "9": {
+                    "name": "Crunch",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "dark",
+                    "class": "physical"
+                },
+                "10": {
+                    "name": "Poison-jab",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "physical"
+                }
+            },
+            "nick": ""
+        },
+        "3": {
+            "name": "Victreebel",
+            "level": 100,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 400,
+            "hp": 400,
+            "atk": 9188,
+            "def": 3250,
+            "spatk": 5000,
+            "spdef": 3500,
+            "speed": 280,
+            "total": 21618,
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 400000,
+            "tivs": 27,
+            "hpiv": 4,
+            "atkiv": 7,
+            "defiv": 4,
+            "spatkiv": 4,
+            "spdefiv": 4,
+            "speediv": 4,
+            "biv": 4,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 8,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Solar-beam",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Sludge-bomb",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "special"
+                },
+                "5": {
+                    "name": "Leaf-blade",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Poison-jab",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Seed-bomb",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Energy-ball",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                }
+            },
+            "nick": ""
+        },
+        "4": {
+            "name": "Kingler",
+            "level": 55,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 313,
+            "hp": 313,
+            "atk": 10351,
+            "def": 6541,
+            "spatk": 2844,
+            "spdef": 2844,
+            "speed": 333,
+            "total": 23226,
+            "types": [
+                "water"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 121000,
+            "tivs": 32,
+            "hpiv": 5,
+            "atkiv": 7,
+            "defiv": 5,
+            "spatkiv": 5,
+            "spdefiv": 5,
+            "speediv": 5,
+            "biv": 5,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Surf",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Ice-beam",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "ice",
+                    "class": "special"
+                },
+                "5": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Dig",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Superpower",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "fighting",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Dive",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "physical"
+                },
+                "9": {
+                    "name": "X-scissor",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "bug",
+                    "class": "physical"
+                },
+                "10": {
+                    "name": "Scald",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "special"
+                }
+            },
+            "nick": ""
+        },
+        "5": {
+            "name": "Machoke",
+            "level": 145,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 218,
+            "hp": 218,
+            "atk": 5450,
+            "def": 1908,
+            "spatk": 1362,
+            "spdef": 1635,
+            "speed": 100,
+            "total": 10673,
+            "types": [
+                "fighting"
+            ],
+            "gender": "Female",
+            "genders": "\u2640\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 841000,
+            "tivs": 14,
+            "hpiv": 2,
+            "atkiv": 4,
+            "defiv": 2,
+            "spatkiv": 2,
+            "spdefiv": 2,
+            "speediv": 2,
+            "biv": 2,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Flamethrower",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "fire",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "5": {
+                    "name": "Earthquake",
+                    "dmg": 100,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Dig",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Focus-punch",
+                    "dmg": 150,
+                    "acc": 100,
+                    "type": "fighting",
+                    "class": "physical"
+                },
+                "9": {
+                    "name": "Superpower",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "fighting",
+                    "class": "physical"
+                },
+                "10": {
+                    "name": "Poison-jab",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "physical"
+                }
+            },
+            "nick": ""
+        },
+        "6": {
+            "name": "Venusaur",
+            "level": 87,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 584,
+            "hp": 584,
+            "atk": 5990,
+            "def": 6063,
+            "spatk": 9740,
+            "spdef": 8522,
+            "speed": 464,
+            "total": 31363,
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "gender": "Female",
+            "genders": "\u2640\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 302760,
+            "tivs": 39,
+            "hpiv": 6,
+            "atkiv": 6,
+            "defiv": 6,
+            "spatkiv": 8,
+            "spdefiv": 7,
+            "speediv": 6,
+            "biv": 6,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "4": {
+                    "name": "Solar-beam",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                },
+                "5": {
+                    "name": "Petal-dance",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                },
+                "6": {
+                    "name": "Earthquake",
+                    "dmg": 100,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Sludge-bomb",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "special"
+                },
+                "8": {
+                    "name": "Outrage",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "dragon",
+                    "class": "physical"
+                },
+                "9": {
+                    "name": "Seed-bomb",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "physical"
+                },
+                "10": {
+                    "name": "Energy-ball",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                }
+            },
+            "nick": "Bruh"
+        },
+        "7": {
+            "name": "Rapidash",
+            "level": 103,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 163,
+            "hp": 163,
+            "atk": 2515,
+            "def": 1760,
+            "spatk": 2012,
+            "spdef": 2012,
+            "speed": 423,
+            "total": 8885,
+            "types": [
+                "fire"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 424360,
+            "tivs": 14,
+            "hpiv": 2,
+            "atkiv": 2,
+            "defiv": 2,
+            "spatkiv": 2,
+            "spdefiv": 2,
+            "speediv": 4,
+            "biv": 2,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 9,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Flamethrower",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "fire",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "5": {
+                    "name": "Solar-beam",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                },
+                "6": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Flare-blitz",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "fire",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Poison-jab",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "physical"
+                },
+                "9": {
+                    "name": "Wild-charge",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "electric",
+                    "class": "physical"
+                }
+            },
+            "nick": ""
+        },
+        "8": {
+            "name": "Paras",
+            "level": 8,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 71,
+            "hp": 71,
+            "atk": 2142,
+            "def": 1122,
+            "spatk": 918,
+            "spdef": 1122,
+            "speed": 38,
+            "total": 5413,
+            "types": [
+                "bug",
+                "grass"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 2560,
+            "tivs": 13,
+            "hpiv": 2,
+            "atkiv": 3,
+            "defiv": 2,
+            "spatkiv": 2,
+            "spdefiv": 2,
+            "speediv": 2,
+            "biv": 2,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Solar-beam",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Dig",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "5": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Leech-life",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "bug",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Sludge-bomb",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "special"
+                },
+                "8": {
+                    "name": "Seed-bomb",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "physical"
+                },
+                "9": {
+                    "name": "X-scissor",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "bug",
+                    "class": "physical"
+                },
+                "10": {
+                    "name": "Energy-ball",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                }
+            },
+            "nick": ""
+        },
+        "9": {
+            "name": "Staryu",
+            "level": 32,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 162,
+            "hp": 162,
+            "atk": 2430,
+            "def": 2970,
+            "spatk": 3780,
+            "spdef": 2970,
+            "speed": 423,
+            "total": 12735,
+            "types": [
+                "water"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 40960,
+            "tivs": 31,
+            "hpiv": 5,
+            "atkiv": 5,
+            "defiv": 5,
+            "spatkiv": 5,
+            "spdefiv": 5,
+            "speediv": 6,
+            "biv": 5,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Surf",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "special"
+                },
+                "3": {
+                    "name": "Ice-beam",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "ice",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Thunderbolt",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "electric",
+                    "class": "special"
+                },
+                "5": {
+                    "name": "Psychic",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "psychic",
+                    "class": "special"
+                },
+                "6": {
+                    "name": "Waterfall",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Tri-attack",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "special"
+                },
+                "9": {
+                    "name": "Dive",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "physical"
+                },
+                "10": {
+                    "name": "Power-gem",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "rock",
+                    "class": "special"
+                }
+            },
+            "nick": ""
+        },
+        "10": {
+            "name": "Pinsir",
+            "level": 39,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 357,
+            "hp": 357,
+            "atk": 9603,
+            "def": 5488,
+            "spatk": 3018,
+            "spdef": 3841,
+            "speed": 360,
+            "total": 22667,
+            "types": [
+                "bug"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 60840,
+            "tivs": 32,
+            "hpiv": 5,
+            "atkiv": 7,
+            "defiv": 5,
+            "spatkiv": 5,
+            "spdefiv": 5,
+            "speediv": 5,
+            "biv": 5,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Thrash",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "4": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "5": {
+                    "name": "Earthquake",
+                    "dmg": 100,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Dig",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Focus-punch",
+                    "dmg": 150,
+                    "acc": 100,
+                    "type": "fighting",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Superpower",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "fighting",
+                    "class": "physical"
+                },
+                "9": {
+                    "name": "Close-combat",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "fighting",
+                    "class": "physical"
+                },
+                "10": {
+                    "name": "X-scissor",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "bug",
+                    "class": "physical"
+                }
+            },
+            "nick": ""
+        },
+        "11": {
+            "name": "Weezing",
+            "level": 64,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 75,
+            "hp": 75,
+            "atk": 1044,
+            "def": 4176,
+            "spatk": 986,
+            "spdef": 812,
+            "speed": 55,
+            "total": 7148,
+            "types": [
+                "poison"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 163840,
+            "tivs": 8,
+            "hpiv": 1,
+            "atkiv": 1,
+            "defiv": 3,
+            "spatkiv": 1,
+            "spdefiv": 1,
+            "speediv": 1,
+            "biv": 1,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 8,
+            "moves": {
+                "1": {
+                    "name": "Flamethrower",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "fire",
+                    "class": "special"
+                },
+                "2": {
+                    "name": "Thunderbolt",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "electric",
+                    "class": "special"
+                },
+                "3": {
+                    "name": "Self-destruct",
+                    "dmg": 200,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "4": {
+                    "name": "Explosion",
+                    "dmg": 250,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "5": {
+                    "name": "Sludge-bomb",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "special"
+                },
+                "6": {
+                    "name": "Shadow-ball",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "ghost",
+                    "class": "special"
+                },
+                "7": {
+                    "name": "Uproar",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "special"
+                },
+                "8": {
+                    "name": "Dark-pulse",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "dark",
+                    "class": "special"
+                }
+            },
+            "nick": ""
+        },
+        "12": {
+            "name": "Clefable",
+            "level": 60,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 874,
+            "hp": 874,
+            "atk": 4025,
+            "def": 4198,
+            "spatk": 5462,
+            "spdef": 5175,
+            "speed": 270,
+            "total": 20004,
+            "types": [
+                "fairy"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 144000,
+            "tivs": 33,
+            "hpiv": 8,
+            "atkiv": 5,
+            "defiv": 5,
+            "spatkiv": 5,
+            "spdefiv": 5,
+            "speediv": 5,
+            "biv": 5,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Flamethrower",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "fire",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Ice-beam",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "ice",
+                    "class": "special"
+                },
+                "5": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Solar-beam",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                },
+                "7": {
+                    "name": "Thunderbolt",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "electric",
+                    "class": "special"
+                },
+                "8": {
+                    "name": "Dig",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "9": {
+                    "name": "Psychic",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "psychic",
+                    "class": "special"
+                },
+                "10": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                }
+            },
+            "nick": ""
+        },
+        "13": {
+            "name": "Venomoth",
+            "level": 23,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 296,
+            "hp": 296,
+            "atk": 2750,
+            "def": 2538,
+            "spatk": 4759,
+            "spdef": 3172,
+            "speed": 363,
+            "total": 13878,
+            "types": [
+                "bug",
+                "poison"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 21160,
+            "tivs": 26,
+            "hpiv": 4,
+            "atkiv": 4,
+            "defiv": 4,
+            "spatkiv": 5,
+            "spdefiv": 4,
+            "speediv": 5,
+            "biv": 4,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 8,
+            "moves": {
+                "1": {
+                    "name": "Razor-wind",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "special"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Solar-beam",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Psychic",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "psychic",
+                    "class": "special"
+                },
+                "5": {
+                    "name": "Leech-life",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "bug",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Sludge-bomb",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "special"
+                },
+                "7": {
+                    "name": "Bug-buzz",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "bug",
+                    "class": "special"
+                },
+                "8": {
+                    "name": "Energy-ball",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                }
+            },
+            "nick": ""
+        },
+        "14": {
+            "name": "Kabutops",
+            "level": 12,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 185,
+            "hp": 185,
+            "atk": 5922,
+            "def": 3244,
+            "spatk": 2008,
+            "spdef": 2163,
+            "speed": 187,
+            "total": 13709,
+            "types": [
+                "rock",
+                "water"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 5760,
+            "tivs": 20,
+            "hpiv": 3,
+            "atkiv": 5,
+            "defiv": 3,
+            "spatkiv": 3,
+            "spdefiv": 3,
+            "speediv": 3,
+            "biv": 3,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Razor-wind",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "special"
+                },
+                "2": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "4": {
+                    "name": "Surf",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "special"
+                },
+                "5": {
+                    "name": "Ice-beam",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "ice",
+                    "class": "special"
+                },
+                "6": {
+                    "name": "Dig",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Waterfall",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "9": {
+                    "name": "Superpower",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "fighting",
+                    "class": "physical"
+                },
+                "10": {
+                    "name": "Dive",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "physical"
+                }
+            },
+            "nick": ""
+        },
+        "15": {
+            "name": "Exeggutor",
+            "level": 125,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 499,
+            "hp": 499,
+            "atk": 4988,
+            "def": 4462,
+            "spatk": 9844,
+            "spdef": 3938,
+            "speed": 234,
+            "total": 23965,
+            "types": [
+                "grass",
+                "psychic"
+            ],
+            "gender": "Female",
+            "genders": "\u2640\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 625000,
+            "tivs": 26,
+            "hpiv": 4,
+            "atkiv": 4,
+            "defiv": 4,
+            "spatkiv": 6,
+            "spdefiv": 4,
+            "speediv": 4,
+            "biv": 4,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Solar-beam",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Psychic",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "psychic",
+                    "class": "special"
+                },
+                "5": {
+                    "name": "Self-destruct",
+                    "dmg": 200,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Dream-eater",
+                    "dmg": 100,
+                    "acc": 100,
+                    "type": "psychic",
+                    "class": "special"
+                },
+                "7": {
+                    "name": "Explosion",
+                    "dmg": 250,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Sludge-bomb",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "special"
+                },
+                "9": {
+                    "name": "Seed-bomb",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "physical"
+                },
+                "10": {
+                    "name": "Energy-ball",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                }
+            },
+            "nick": ""
+        },
+        "16": {
+            "name": "Electabuzz",
+            "level": 93,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 80,
+            "hp": 80,
+            "atk": 1023,
+            "def": 703,
+            "spatk": 1171,
+            "spdef": 1048,
+            "speed": 309,
+            "total": 4334,
+            "types": [
+                "electric"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 345960,
+            "tivs": 8,
+            "hpiv": 1,
+            "atkiv": 1,
+            "defiv": 1,
+            "spatkiv": 1,
+            "spdefiv": 1,
+            "speediv": 3,
+            "biv": 1,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 9,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "4": {
+                    "name": "Thunderbolt",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "electric",
+                    "class": "special"
+                },
+                "5": {
+                    "name": "Psychic",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "psychic",
+                    "class": "special"
+                },
+                "6": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Focus-punch",
+                    "dmg": 150,
+                    "acc": 100,
+                    "type": "fighting",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Discharge",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "electric",
+                    "class": "special"
+                },
+                "9": {
+                    "name": "Wild-charge",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "electric",
+                    "class": "physical"
+                }
+            },
+            "nick": ""
+        },
+        "17": {
+            "name": "Seaking",
+            "level": 60,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 552,
+            "hp": 552,
+            "atk": 8464,
+            "def": 4485,
+            "spatk": 4485,
+            "spdef": 5520,
+            "speed": 367,
+            "total": 23873,
+            "types": [
+                "water"
+            ],
+            "gender": "Female",
+            "genders": "\u2640\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 144000,
+            "tivs": 38,
+            "hpiv": 6,
+            "atkiv": 8,
+            "defiv": 6,
+            "spatkiv": 6,
+            "spdefiv": 6,
+            "speediv": 6,
+            "biv": 6,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 8,
+            "moves": {
+                "1": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Surf",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "special"
+                },
+                "3": {
+                    "name": "Ice-beam",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "ice",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Waterfall",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "physical"
+                },
+                "5": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Dive",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Poison-jab",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Scald",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "special"
+                }
+            },
+            "nick": ""
+        },
+        "18": {
+            "name": "Gyarados",
+            "level": 71,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 224,
+            "hp": 224,
+            "atk": 5888,
+            "def": 1860,
+            "spatk": 1413,
+            "spdef": 2355,
+            "speed": 150,
+            "total": 11890,
+            "types": [
+                "water",
+                "flying"
+            ],
+            "gender": "Female",
+            "genders": "\u2640\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 201640,
+            "tivs": 14,
+            "hpiv": 2,
+            "atkiv": 4,
+            "defiv": 2,
+            "spatkiv": 2,
+            "spdefiv": 2,
+            "speediv": 2,
+            "biv": 2,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Thrash",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "4": {
+                    "name": "Flamethrower",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "fire",
+                    "class": "special"
+                },
+                "5": {
+                    "name": "Surf",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "special"
+                },
+                "6": {
+                    "name": "Ice-beam",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "ice",
+                    "class": "special"
+                },
+                "7": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Thunderbolt",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "electric",
+                    "class": "special"
+                },
+                "9": {
+                    "name": "Earthquake",
+                    "dmg": 100,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "10": {
+                    "name": "Waterfall",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "physical"
+                }
+            },
+            "nick": ""
+        },
+        "19": {
+            "name": "Tentacruel",
+            "level": 14,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 331,
+            "hp": 331,
+            "atk": 2898,
+            "def": 2691,
+            "spatk": 3312,
+            "spdef": 7452,
+            "speed": 314,
+            "total": 16998,
+            "types": [
+                "water",
+                "poison"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 7840,
+            "tivs": 26,
+            "hpiv": 4,
+            "atkiv": 4,
+            "defiv": 4,
+            "spatkiv": 4,
+            "spdefiv": 6,
+            "speediv": 4,
+            "biv": 4,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Surf",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "special"
+                },
+                "3": {
+                    "name": "Ice-beam",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "ice",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Waterfall",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "physical"
+                },
+                "5": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Sludge-bomb",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "special"
+                },
+                "7": {
+                    "name": "Dive",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Poison-jab",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "physical"
+                },
+                "9": {
+                    "name": "Sludge-wave",
+                    "dmg": 95,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "special"
+                },
+                "10": {
+                    "name": "Scald",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "special"
+                }
+            },
+            "nick": ""
+        },
+        "20": {
+            "name": "Pidgeotto",
+            "level": 50,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 425,
+            "hp": 425,
+            "atk": 4050,
+            "def": 3712,
+            "spatk": 3375,
+            "spdef": 3375,
+            "speed": 497,
+            "total": 15434,
+            "types": [
+                "normal",
+                "flying"
+            ],
+            "gender": "Female",
+            "genders": "\u2640\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 100000,
+            "tivs": 38,
+            "hpiv": 6,
+            "atkiv": 6,
+            "defiv": 6,
+            "spatkiv": 6,
+            "spdefiv": 6,
+            "speediv": 8,
+            "biv": 6,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 3,
+            "moves": {
+                "1": {
+                    "name": "Razor-wind",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "special"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Uproar",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "special"
+                }
+            },
+            "nick": ""
+        },
+        "21": {
+            "name": "Gastly",
+            "level": 108,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 190,
+            "hp": 190,
+            "atk": 2222,
+            "def": 1905,
+            "spatk": 7620,
+            "spdef": 2222,
+            "speed": 408,
+            "total": 14567,
+            "types": [
+                "ghost",
+                "poison"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 466560,
+            "tivs": 31,
+            "hpiv": 5,
+            "atkiv": 5,
+            "defiv": 5,
+            "spatkiv": 6,
+            "spdefiv": 5,
+            "speediv": 5,
+            "biv": 5,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Thunderbolt",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "electric",
+                    "class": "special"
+                },
+                "2": {
+                    "name": "Psychic",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "psychic",
+                    "class": "special"
+                },
+                "3": {
+                    "name": "Self-destruct",
+                    "dmg": 200,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "4": {
+                    "name": "Dream-eater",
+                    "dmg": 100,
+                    "acc": 100,
+                    "type": "psychic",
+                    "class": "special"
+                },
+                "5": {
+                    "name": "Explosion",
+                    "dmg": 250,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Sludge-bomb",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "special"
+                },
+                "7": {
+                    "name": "Shadow-ball",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "ghost",
+                    "class": "special"
+                },
+                "8": {
+                    "name": "Uproar",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "special"
+                },
+                "9": {
+                    "name": "Dark-pulse",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "dark",
+                    "class": "special"
+                },
+                "10": {
+                    "name": "Energy-ball",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                }
+            },
+            "nick": ""
+        },
+        "22": {
+            "name": "Arcanine",
+            "level": 95,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 668,
+            "hp": 668,
+            "atk": 10890,
+            "def": 5940,
+            "spatk": 7425,
+            "spdef": 5940,
+            "speed": 563,
+            "total": 31426,
+            "types": [
+                "fire"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 361000,
+            "tivs": 38,
+            "hpiv": 6,
+            "atkiv": 8,
+            "defiv": 6,
+            "spatkiv": 6,
+            "spdefiv": 6,
+            "speediv": 6,
+            "biv": 6,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Flamethrower",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "fire",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "5": {
+                    "name": "Solar-beam",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                },
+                "6": {
+                    "name": "Dig",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Outrage",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "dragon",
+                    "class": "physical"
+                },
+                "9": {
+                    "name": "Extreme-speed",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "10": {
+                    "name": "Dragon-pulse",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "dragon",
+                    "class": "special"
+                }
+            },
+            "nick": ""
+        },
+        "23": {
+            "name": "Machoke",
+            "level": 50,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 450,
+            "hp": 450,
+            "atk": 7875,
+            "def": 3938,
+            "spatk": 2812,
+            "spdef": 3375,
+            "speed": 197,
+            "total": 18647,
+            "types": [
+                "fighting"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 100000,
+            "tivs": 32,
+            "hpiv": 5,
+            "atkiv": 7,
+            "defiv": 5,
+            "spatkiv": 5,
+            "spdefiv": 5,
+            "speediv": 5,
+            "biv": 5,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Flamethrower",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "fire",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "5": {
+                    "name": "Earthquake",
+                    "dmg": 100,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Dig",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Focus-punch",
+                    "dmg": 150,
+                    "acc": 100,
+                    "type": "fighting",
+                    "class": "physical"
+                },
+                "9": {
+                    "name": "Superpower",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "fighting",
+                    "class": "physical"
+                },
+                "10": {
+                    "name": "Poison-jab",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "physical"
+                }
+            },
+            "nick": ""
+        },
+        "24": {
+            "name": "Kangaskhan",
+            "level": 77,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 1628,
+            "hp": 1628,
+            "atk": 12462,
+            "def": 10494,
+            "spatk": 5247,
+            "spdef": 10494,
+            "speed": 933,
+            "total": 41258,
+            "types": [
+                "normal"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 237160,
+            "tivs": 68,
+            "hpiv": 13,
+            "atkiv": 11,
+            "defiv": 11,
+            "spatkiv": 11,
+            "spdefiv": 11,
+            "speediv": 11,
+            "biv": 11,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Flamethrower",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "fire",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Surf",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "special"
+                },
+                "5": {
+                    "name": "Ice-beam",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "ice",
+                    "class": "special"
+                },
+                "6": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Solar-beam",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                },
+                "8": {
+                    "name": "Thunderbolt",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "electric",
+                    "class": "special"
+                },
+                "9": {
+                    "name": "Earthquake",
+                    "dmg": 100,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "10": {
+                    "name": "Dig",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                }
+            },
+            "nick": ""
+        },
+        "25": {
+            "name": "Kakuna",
+            "level": 110,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 631,
+            "hp": 631,
+            "atk": 3506,
+            "def": 8288,
+            "spatk": 3506,
+            "spdef": 3506,
+            "speed": 395,
+            "total": 19832,
+            "types": [
+                "bug",
+                "poison"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 484000,
+            "tivs": 68,
+            "hpiv": 11,
+            "atkiv": 11,
+            "defiv": 13,
+            "spatkiv": 11,
+            "spdefiv": 11,
+            "speediv": 11,
+            "biv": 11,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 0,
+            "moves": {},
+            "nick": ""
+        },
+        "26": {
+            "name": "Charmeleon",
+            "level": 117,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 450,
+            "hp": 450,
+            "atk": 4963,
+            "def": 4498,
+            "spatk": 7238,
+            "spdef": 5041,
+            "speed": 584,
+            "total": 22774,
+            "types": [
+                "fire"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 547560,
+            "tivs": 38,
+            "hpiv": 6,
+            "atkiv": 6,
+            "defiv": 6,
+            "spatkiv": 7,
+            "spdefiv": 6,
+            "speediv": 7,
+            "biv": 6,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Flamethrower",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "fire",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "5": {
+                    "name": "Dig",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Outrage",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "dragon",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Focus-punch",
+                    "dmg": 150,
+                    "acc": 100,
+                    "type": "fighting",
+                    "class": "physical"
+                },
+                "9": {
+                    "name": "Dragon-claw",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "dragon",
+                    "class": "physical"
+                },
+                "10": {
+                    "name": "Dragon-pulse",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "dragon",
+                    "class": "special"
+                }
+            },
+            "nick": ""
+        },
+        "27": {
+            "name": "Onix",
+            "level": 83,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 254,
+            "hp": 254,
+            "atk": 3260,
+            "def": 13524,
+            "spatk": 2174,
+            "spdef": 3260,
+            "speed": 402,
+            "total": 22874,
+            "types": [
+                "rock",
+                "ground"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 275560,
+            "tivs": 37,
+            "hpiv": 6,
+            "atkiv": 6,
+            "defiv": 7,
+            "spatkiv": 6,
+            "spdefiv": 6,
+            "speediv": 6,
+            "biv": 6,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "4": {
+                    "name": "Earthquake",
+                    "dmg": 100,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "5": {
+                    "name": "Dig",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Self-destruct",
+                    "dmg": 200,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Explosion",
+                    "dmg": 250,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "9": {
+                    "name": "Dragon-pulse",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "dragon",
+                    "class": "special"
+                },
+                "10": {
+                    "name": "Earth-power",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "special"
+                }
+            },
+            "nick": ""
+        },
+        "28": {
+            "name": "Magikarp",
+            "level": 44,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 44,
+            "hp": 44,
+            "atk": 222,
+            "def": 1221,
+            "spatk": 333,
+            "spdef": 444,
+            "speed": 206,
+            "total": 2470,
+            "types": [
+                "water"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 77440,
+            "tivs": 13,
+            "hpiv": 2,
+            "atkiv": 2,
+            "defiv": 2,
+            "spatkiv": 2,
+            "spdefiv": 2,
+            "speediv": 3,
+            "biv": 2,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 0,
+            "moves": {},
+            "nick": ""
+        },
+        "29": {
+            "name": "Starmie",
+            "level": 95,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 446,
+            "hp": 446,
+            "atk": 5569,
+            "def": 6311,
+            "spatk": 7425,
+            "spdef": 6311,
+            "speed": 908,
+            "total": 26970,
+            "types": [
+                "water",
+                "psychic"
+            ],
+            "gender": "Female",
+            "genders": "\u2640\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 361000,
+            "tivs": 38,
+            "hpiv": 6,
+            "atkiv": 6,
+            "defiv": 6,
+            "spatkiv": 6,
+            "spdefiv": 6,
+            "speediv": 8,
+            "biv": 6,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Surf",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "special"
+                },
+                "3": {
+                    "name": "Ice-beam",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "ice",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Thunderbolt",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "electric",
+                    "class": "special"
+                },
+                "5": {
+                    "name": "Psychic",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "psychic",
+                    "class": "special"
+                },
+                "6": {
+                    "name": "Waterfall",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Dream-eater",
+                    "dmg": 100,
+                    "acc": 100,
+                    "type": "psychic",
+                    "class": "special"
+                },
+                "9": {
+                    "name": "Tri-attack",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "special"
+                },
+                "10": {
+                    "name": "Dive",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "physical"
+                }
+            },
+            "nick": ""
+        },
+        "30": {
+            "name": "Persian",
+            "level": 150,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 179,
+            "hp": 179,
+            "atk": 1925,
+            "def": 1650,
+            "spatk": 1788,
+            "spdef": 1788,
+            "speed": 518,
+            "total": 7848,
+            "types": [
+                "normal"
+            ],
+            "gender": "Female",
+            "genders": "\u2640\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 900000,
+            "tivs": 14,
+            "hpiv": 2,
+            "atkiv": 2,
+            "defiv": 2,
+            "spatkiv": 2,
+            "spdefiv": 2,
+            "speediv": 4,
+            "biv": 2,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Thunderbolt",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "electric",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Dig",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "5": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Dream-eater",
+                    "dmg": 100,
+                    "acc": 100,
+                    "type": "psychic",
+                    "class": "special"
+                },
+                "7": {
+                    "name": "Shadow-ball",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "ghost",
+                    "class": "special"
+                },
+                "8": {
+                    "name": "Uproar",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "special"
+                },
+                "9": {
+                    "name": "Hyper-voice",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "special"
+                },
+                "10": {
+                    "name": "Last-resort",
+                    "dmg": 140,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                }
+            },
+            "nick": ""
+        },
+        "31": {
+            "name": "Lapras",
+            "level": 33,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 985,
+            "hp": 985,
+            "atk": 4601,
+            "def": 4330,
+            "spatk": 4601,
+            "spdef": 5142,
+            "speed": 250,
+            "total": 19909,
+            "types": [
+                "water",
+                "ice"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 43560,
+            "tivs": 32,
+            "hpiv": 7,
+            "atkiv": 5,
+            "defiv": 5,
+            "spatkiv": 5,
+            "spdefiv": 5,
+            "speediv": 5,
+            "biv": 5,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Surf",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Ice-beam",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "ice",
+                    "class": "special"
+                },
+                "5": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Solar-beam",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                },
+                "7": {
+                    "name": "Thunderbolt",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "electric",
+                    "class": "special"
+                },
+                "8": {
+                    "name": "Psychic",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "psychic",
+                    "class": "special"
+                },
+                "9": {
+                    "name": "Waterfall",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "physical"
+                },
+                "10": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                }
+            },
+            "nick": ""
+        },
+        "32": {
+            "name": "Chansey",
+            "level": 49,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 2526,
+            "hp": 2526,
+            "atk": 393,
+            "def": 393,
+            "spatk": 2750,
+            "spdef": 8250,
+            "speed": 305,
+            "total": 14617,
+            "types": [
+                "normal"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 96040,
+            "tivs": 44,
+            "hpiv": 9,
+            "atkiv": 7,
+            "defiv": 7,
+            "spatkiv": 7,
+            "spdefiv": 7,
+            "speediv": 7,
+            "biv": 7,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Flamethrower",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "fire",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Ice-beam",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "ice",
+                    "class": "special"
+                },
+                "5": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Solar-beam",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                },
+                "7": {
+                    "name": "Thunderbolt",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "electric",
+                    "class": "special"
+                },
+                "8": {
+                    "name": "Earthquake",
+                    "dmg": 100,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "9": {
+                    "name": "Psychic",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "psychic",
+                    "class": "special"
+                },
+                "10": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                }
+            },
+            "nick": ""
+        },
+        "33": {
+            "name": "Bellsprout",
+            "level": 8,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 306,
+            "hp": 306,
+            "atk": 5355,
+            "def": 2142,
+            "spatk": 4284,
+            "spdef": 1836,
+            "speed": 185,
+            "total": 14108,
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "gender": "Female",
+            "genders": "\u2640\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 2560,
+            "tivs": 37,
+            "hpiv": 6,
+            "atkiv": 7,
+            "defiv": 6,
+            "spatkiv": 6,
+            "spdefiv": 6,
+            "speediv": 6,
+            "biv": 6,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 7,
+            "moves": {
+                "1": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Solar-beam",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                },
+                "3": {
+                    "name": "Leech-life",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "bug",
+                    "class": "physical"
+                },
+                "4": {
+                    "name": "Sludge-bomb",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "special"
+                },
+                "5": {
+                    "name": "Poison-jab",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Seed-bomb",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Energy-ball",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                }
+            },
+            "nick": ""
+        },
+        "34": {
+            "name": "Parasect",
+            "level": 11,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 308,
+            "hp": 308,
+            "atk": 6833,
+            "def": 4932,
+            "spatk": 3082,
+            "spdef": 4110,
+            "speed": 117,
+            "total": 19382,
+            "types": [
+                "bug",
+                "grass"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 4840,
+            "tivs": 33,
+            "hpiv": 5,
+            "atkiv": 7,
+            "defiv": 6,
+            "spatkiv": 5,
+            "spdefiv": 5,
+            "speediv": 5,
+            "biv": 5,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Solar-beam",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Dig",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "5": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Leech-life",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "bug",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Sludge-bomb",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "special"
+                },
+                "8": {
+                    "name": "Seed-bomb",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "physical"
+                },
+                "9": {
+                    "name": "X-scissor",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "bug",
+                    "class": "physical"
+                },
+                "10": {
+                    "name": "Energy-ball",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                }
+            },
+            "nick": ""
+        },
+        "35": {
+            "name": "Bellsprout",
+            "level": 125,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 262,
+            "hp": 262,
+            "atk": 4922,
+            "def": 1838,
+            "spatk": 3675,
+            "spdef": 1575,
+            "speed": 170,
+            "total": 12442,
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "gender": "Female",
+            "genders": "\u2640\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 625000,
+            "tivs": 25,
+            "hpiv": 4,
+            "atkiv": 5,
+            "defiv": 4,
+            "spatkiv": 4,
+            "spdefiv": 4,
+            "speediv": 4,
+            "biv": 4,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 7,
+            "moves": {
+                "1": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Solar-beam",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                },
+                "3": {
+                    "name": "Leech-life",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "bug",
+                    "class": "physical"
+                },
+                "4": {
+                    "name": "Sludge-bomb",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "special"
+                },
+                "5": {
+                    "name": "Poison-jab",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Seed-bomb",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Energy-ball",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                }
+            },
+            "nick": ""
+        },
+        "36": {
+            "name": "Arcanine",
+            "level": 32,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 875,
+            "hp": 875,
+            "atk": 13068,
+            "def": 7776,
+            "spatk": 9720,
+            "spdef": 7776,
+            "speed": 710,
+            "total": 39925,
+            "types": [
+                "fire"
+            ],
+            "gender": "Female",
+            "genders": "\u2640\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 40960,
+            "tivs": 56,
+            "hpiv": 9,
+            "atkiv": 11,
+            "defiv": 9,
+            "spatkiv": 9,
+            "spdefiv": 9,
+            "speediv": 9,
+            "biv": 9,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Flamethrower",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "fire",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "5": {
+                    "name": "Solar-beam",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                },
+                "6": {
+                    "name": "Dig",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Outrage",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "dragon",
+                    "class": "physical"
+                },
+                "9": {
+                    "name": "Extreme-speed",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "10": {
+                    "name": "Dragon-pulse",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "dragon",
+                    "class": "special"
+                }
+            },
+            "nick": ""
+        },
+        "37": {
+            "name": "Seel",
+            "level": 103,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 490,
+            "hp": 490,
+            "atk": 3395,
+            "def": 4150,
+            "spatk": 3395,
+            "spdef": 6162,
+            "speed": 272,
+            "total": 17864,
+            "types": [
+                "water"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 424360,
+            "tivs": 37,
+            "hpiv": 6,
+            "atkiv": 6,
+            "defiv": 6,
+            "spatkiv": 6,
+            "spdefiv": 7,
+            "speediv": 6,
+            "biv": 6,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 8,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Surf",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Ice-beam",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "ice",
+                    "class": "special"
+                },
+                "5": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Waterfall",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Dive",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "physical"
+                }
+            },
+            "nick": ""
+        },
+        "38": {
+            "name": "Graveler",
+            "level": 9,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 56,
+            "hp": 56,
+            "atk": 971,
+            "def": 3528,
+            "spatk": 460,
+            "spdef": 460,
+            "speed": 27,
+            "total": 5502,
+            "types": [
+                "rock",
+                "ground"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 3240,
+            "tivs": 8,
+            "hpiv": 1,
+            "atkiv": 1,
+            "defiv": 3,
+            "spatkiv": 1,
+            "spdefiv": 1,
+            "speediv": 1,
+            "biv": 1,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Flamethrower",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "fire",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "5": {
+                    "name": "Earthquake",
+                    "dmg": 100,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Dig",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Self-destruct",
+                    "dmg": 200,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Explosion",
+                    "dmg": 250,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "9": {
+                    "name": "Focus-punch",
+                    "dmg": 150,
+                    "acc": 100,
+                    "type": "fighting",
+                    "class": "physical"
+                },
+                "10": {
+                    "name": "Superpower",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "fighting",
+                    "class": "physical"
+                }
+            },
+            "nick": ""
+        },
+        "39": {
+            "name": "Graveler",
+            "level": 126,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 362,
+            "hp": 362,
+            "atk": 6246,
+            "def": 10586,
+            "spatk": 2959,
+            "spdef": 2959,
+            "speed": 186,
+            "total": 23298,
+            "types": [
+                "rock",
+                "ground"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 635040,
+            "tivs": 32,
+            "hpiv": 5,
+            "atkiv": 5,
+            "defiv": 7,
+            "spatkiv": 5,
+            "spdefiv": 5,
+            "speediv": 5,
+            "biv": 5,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Flamethrower",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "fire",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "5": {
+                    "name": "Earthquake",
+                    "dmg": 100,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Dig",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Self-destruct",
+                    "dmg": 200,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Explosion",
+                    "dmg": 250,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "9": {
+                    "name": "Focus-punch",
+                    "dmg": 150,
+                    "acc": 100,
+                    "type": "fighting",
+                    "class": "physical"
+                },
+                "10": {
+                    "name": "Superpower",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "fighting",
+                    "class": "physical"
+                }
+            },
+            "nick": ""
+        },
+        "40": {
+            "name": "Muk",
+            "level": 118,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 272,
+            "hp": 272,
+            "atk": 2720,
+            "def": 971,
+            "spatk": 842,
+            "spdef": 1295,
+            "speed": 52,
+            "total": 6152,
+            "types": [
+                "poison"
+            ],
+            "gender": "Female",
+            "genders": "\u2640\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 556960,
+            "tivs": 8,
+            "hpiv": 2,
+            "atkiv": 2,
+            "defiv": 1,
+            "spatkiv": 1,
+            "spdefiv": 1,
+            "speediv": 1,
+            "biv": 1,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Flamethrower",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "fire",
+                    "class": "special"
+                },
+                "3": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "4": {
+                    "name": "Thunderbolt",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "electric",
+                    "class": "special"
+                },
+                "5": {
+                    "name": "Dig",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Self-destruct",
+                    "dmg": 200,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Explosion",
+                    "dmg": 250,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Sludge-bomb",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "special"
+                },
+                "9": {
+                    "name": "Shadow-ball",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "ghost",
+                    "class": "special"
+                },
+                "10": {
+                    "name": "Focus-punch",
+                    "dmg": 150,
+                    "acc": 100,
+                    "type": "fighting",
+                    "class": "physical"
+                }
+            },
+            "nick": ""
+        },
+        "41": {
+            "name": "Ekans",
+            "level": 103,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 264,
+            "hp": 264,
+            "atk": 5282,
+            "def": 3320,
+            "spatk": 3018,
+            "spdef": 4074,
+            "speed": 332,
+            "total": 16290,
+            "types": [
+                "poison"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 424360,
+            "tivs": 37,
+            "hpiv": 6,
+            "atkiv": 7,
+            "defiv": 6,
+            "spatkiv": 6,
+            "spdefiv": 6,
+            "speediv": 6,
+            "biv": 6,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "4": {
+                    "name": "Earthquake",
+                    "dmg": 100,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "5": {
+                    "name": "Dig",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Sludge-bomb",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "special"
+                },
+                "8": {
+                    "name": "Crunch",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "dark",
+                    "class": "physical"
+                },
+                "9": {
+                    "name": "Poison-jab",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "physical"
+                },
+                "10": {
+                    "name": "Dark-pulse",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "dark",
+                    "class": "special"
+                }
+            },
+            "nick": ""
+        },
+        "42": {
+            "name": "Metapod",
+            "level": 107,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 254,
+            "hp": 254,
+            "atk": 1014,
+            "def": 4183,
+            "spatk": 1268,
+            "spdef": 1268,
+            "speed": 122,
+            "total": 8109,
+            "types": [
+                "bug"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 457960,
+            "tivs": 26,
+            "hpiv": 4,
+            "atkiv": 4,
+            "defiv": 6,
+            "spatkiv": 4,
+            "spdefiv": 4,
+            "speediv": 4,
+            "biv": 4,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 0,
+            "moves": {},
+            "nick": ""
+        },
+        "43": {
+            "name": "Tentacool",
+            "level": 147,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 109,
+            "hp": 109,
+            "atk": 1094,
+            "def": 957,
+            "spatk": 1368,
+            "spdef": 4102,
+            "speed": 156,
+            "total": 7786,
+            "types": [
+                "water",
+                "poison"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 864360,
+            "tivs": 13,
+            "hpiv": 2,
+            "atkiv": 2,
+            "defiv": 2,
+            "spatkiv": 2,
+            "spdefiv": 3,
+            "speediv": 2,
+            "biv": 2,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Surf",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "special"
+                },
+                "3": {
+                    "name": "Ice-beam",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "ice",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Waterfall",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "physical"
+                },
+                "5": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Sludge-bomb",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "special"
+                },
+                "7": {
+                    "name": "Dive",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Poison-jab",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "physical"
+                },
+                "9": {
+                    "name": "Sludge-wave",
+                    "dmg": 95,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "special"
+                },
+                "10": {
+                    "name": "Scald",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "special"
+                }
+            },
+            "nick": ""
+        },
+        "44": {
+            "name": "Machamp",
+            "level": 77,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 751,
+            "hp": 751,
+            "atk": 15502,
+            "def": 6678,
+            "spatk": 5426,
+            "spdef": 7095,
+            "speed": 363,
+            "total": 35815,
+            "types": [
+                "fighting"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 237160,
+            "tivs": 45,
+            "hpiv": 7,
+            "atkiv": 10,
+            "defiv": 7,
+            "spatkiv": 7,
+            "spdefiv": 7,
+            "speediv": 7,
+            "biv": 7,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Flamethrower",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "fire",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "5": {
+                    "name": "Earthquake",
+                    "dmg": 100,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Dig",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Focus-punch",
+                    "dmg": 150,
+                    "acc": 100,
+                    "type": "fighting",
+                    "class": "physical"
+                },
+                "9": {
+                    "name": "Superpower",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "fighting",
+                    "class": "physical"
+                },
+                "10": {
+                    "name": "Poison-jab",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "physical"
+                }
+            },
+            "nick": ""
+        },
+        "45": {
+            "name": "Parasect",
+            "level": 145,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 82,
+            "hp": 82,
+            "atk": 3883,
+            "def": 2180,
+            "spatk": 818,
+            "spdef": 1090,
+            "speed": 33,
+            "total": 8086,
+            "types": [
+                "bug",
+                "grass"
+            ],
+            "gender": "Female",
+            "genders": "\u2640\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 841000,
+            "tivs": 9,
+            "hpiv": 1,
+            "atkiv": 3,
+            "defiv": 2,
+            "spatkiv": 1,
+            "spdefiv": 1,
+            "speediv": 1,
+            "biv": 1,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Solar-beam",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Dig",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "5": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Leech-life",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "bug",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Sludge-bomb",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "special"
+                },
+                "8": {
+                    "name": "Seed-bomb",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "physical"
+                },
+                "9": {
+                    "name": "X-scissor",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "bug",
+                    "class": "physical"
+                },
+                "10": {
+                    "name": "Energy-ball",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                }
+            },
+            "nick": ""
+        },
+        "46": {
+            "name": "Ponyta",
+            "level": 30,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 215,
+            "hp": 215,
+            "atk": 3655,
+            "def": 2365,
+            "spatk": 2795,
+            "spdef": 2795,
+            "speed": 371,
+            "total": 12196,
+            "types": [
+                "fire"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 36000,
+            "tivs": 25,
+            "hpiv": 4,
+            "atkiv": 4,
+            "defiv": 4,
+            "spatkiv": 4,
+            "spdefiv": 4,
+            "speediv": 5,
+            "biv": 4,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 9,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Thrash",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "4": {
+                    "name": "Flamethrower",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "fire",
+                    "class": "special"
+                },
+                "5": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Solar-beam",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                },
+                "7": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Flare-blitz",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "fire",
+                    "class": "physical"
+                },
+                "9": {
+                    "name": "Wild-charge",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "electric",
+                    "class": "physical"
+                }
+            },
+            "nick": ""
+        },
+        "47": {
+            "name": "Staryu",
+            "level": 87,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 256,
+            "hp": 256,
+            "atk": 3835,
+            "def": 4687,
+            "spatk": 5966,
+            "spdef": 4687,
+            "speed": 658,
+            "total": 20089,
+            "types": [
+                "water"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 302760,
+            "tivs": 43,
+            "hpiv": 7,
+            "atkiv": 7,
+            "defiv": 7,
+            "spatkiv": 7,
+            "spdefiv": 7,
+            "speediv": 8,
+            "biv": 7,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Surf",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "special"
+                },
+                "3": {
+                    "name": "Ice-beam",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "ice",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Thunderbolt",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "electric",
+                    "class": "special"
+                },
+                "5": {
+                    "name": "Psychic",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "psychic",
+                    "class": "special"
+                },
+                "6": {
+                    "name": "Waterfall",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Tri-attack",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "special"
+                },
+                "9": {
+                    "name": "Dive",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "physical"
+                },
+                "10": {
+                    "name": "Power-gem",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "rock",
+                    "class": "special"
+                }
+            },
+            "nick": ""
+        },
+        "48": {
+            "name": "Weedle",
+            "level": 90,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 147,
+            "hp": 147,
+            "atk": 1286,
+            "def": 1102,
+            "spatk": 735,
+            "spdef": 735,
+            "speed": 195,
+            "total": 4200,
+            "types": [
+                "bug",
+                "poison"
+            ],
+            "gender": "Female",
+            "genders": "\u2640\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 324000,
+            "tivs": 19,
+            "hpiv": 3,
+            "atkiv": 3,
+            "defiv": 3,
+            "spatkiv": 3,
+            "spdefiv": 3,
+            "speediv": 4,
+            "biv": 3,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 0,
+            "moves": {},
+            "nick": "tattuu"
+        },
+        "49": {
+            "name": "Horsea",
+            "level": 74,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 107,
+            "hp": 107,
+            "atk": 1422,
+            "def": 2488,
+            "spatk": 3318,
+            "spdef": 889,
+            "speed": 168,
+            "total": 8392,
+            "types": [
+                "water"
+            ],
+            "gender": "Female",
+            "genders": "\u2640\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 219040,
+            "tivs": 19,
+            "hpiv": 3,
+            "atkiv": 3,
+            "defiv": 3,
+            "spatkiv": 4,
+            "spdefiv": 3,
+            "speediv": 3,
+            "biv": 3,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Razor-wind",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "special"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Surf",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "special"
+                },
+                "4": {
+                    "name": "Ice-beam",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "ice",
+                    "class": "special"
+                },
+                "5": {
+                    "name": "Waterfall",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Outrage",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "dragon",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Dive",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "physical"
+                },
+                "9": {
+                    "name": "Dragon-pulse",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "dragon",
+                    "class": "special"
+                },
+                "10": {
+                    "name": "Flash-cannon",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "steel",
+                    "class": "special"
+                }
+            },
+            "nick": "tattu"
+        },
+        "50": {
+            "name": "Venusaur",
+            "level": 149,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 549,
+            "hp": 549,
+            "atk": 5627,
+            "def": 5696,
+            "spatk": 9608,
+            "spdef": 8235,
+            "speed": 449,
+            "total": 30164,
+            "types": [
+                "grass",
+                "poison"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 888040,
+            "tivs": 33,
+            "hpiv": 5,
+            "atkiv": 5,
+            "defiv": 5,
+            "spatkiv": 7,
+            "spdefiv": 6,
+            "speediv": 5,
+            "biv": 5,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "4": {
+                    "name": "Solar-beam",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                },
+                "5": {
+                    "name": "Petal-dance",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                },
+                "6": {
+                    "name": "Earthquake",
+                    "dmg": 100,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Sludge-bomb",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "special"
+                },
+                "8": {
+                    "name": "Outrage",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "dragon",
+                    "class": "physical"
+                },
+                "9": {
+                    "name": "Seed-bomb",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "physical"
+                },
+                "10": {
+                    "name": "Energy-ball",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                }
+            },
+            "nick": ""
+        },
+        "51": {
+            "name": "Sandslash",
+            "level": 123,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 196,
+            "hp": 196,
+            "atk": 2615,
+            "def": 5753,
+            "spatk": 1177,
+            "spdef": 1438,
+            "speed": 137,
+            "total": 11316,
+            "types": [
+                "ground"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 605160,
+            "tivs": 14,
+            "hpiv": 2,
+            "atkiv": 2,
+            "defiv": 4,
+            "spatkiv": 2,
+            "spdefiv": 2,
+            "speediv": 2,
+            "biv": 2,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "4": {
+                    "name": "Earthquake",
+                    "dmg": 100,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "5": {
+                    "name": "Dig",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                },
+                "6": {
+                    "name": "Skull-bash",
+                    "dmg": 130,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "7": {
+                    "name": "Focus-punch",
+                    "dmg": 150,
+                    "acc": 100,
+                    "type": "fighting",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Poison-jab",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "poison",
+                    "class": "physical"
+                },
+                "9": {
+                    "name": "X-scissor",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "bug",
+                    "class": "physical"
+                },
+                "10": {
+                    "name": "Earth-power",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "special"
+                }
+            },
+            "nick": ""
+        },
+        "52": {
+            "name": "Lickitung",
+            "level": 93,
+            "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+            "shiny": "No",
+            "rarity": "Common",
+            "chp": 776,
+            "hp": 776,
+            "atk": 3389,
+            "def": 4622,
+            "spatk": 3698,
+            "spdef": 4622,
+            "speed": 147,
+            "total": 17254,
+            "types": [
+                "normal"
+            ],
+            "gender": "Male",
+            "genders": "\u2642\ufe0f",
+            "s_sh": "",
+            "cxp": 0,
+            "nxp": 345960,
+            "tivs": 32,
+            "hpiv": 7,
+            "atkiv": 5,
+            "defiv": 5,
+            "spatkiv": 5,
+            "spdefiv": 5,
+            "speediv": 5,
+            "biv": 5,
+            "hpev": 0,
+            "atkev": 0,
+            "defev": 0,
+            "spatkev": 0,
+            "spdefev": 0,
+            "speedev": 0,
+            "is_knock": false,
+            "is_market": false,
+            "tmoves": 10,
+            "moves": {
+                "1": {
+                    "name": "Body-slam",
+                    "dmg": 85,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "2": {
+                    "name": "Thrash",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "3": {
+                    "name": "Double-edge",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "4": {
+                    "name": "Flamethrower",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "fire",
+                    "class": "special"
+                },
+                "5": {
+                    "name": "Surf",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "water",
+                    "class": "special"
+                },
+                "6": {
+                    "name": "Ice-beam",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "ice",
+                    "class": "special"
+                },
+                "7": {
+                    "name": "Strength",
+                    "dmg": 80,
+                    "acc": 100,
+                    "type": "normal",
+                    "class": "physical"
+                },
+                "8": {
+                    "name": "Solar-beam",
+                    "dmg": 120,
+                    "acc": 100,
+                    "type": "grass",
+                    "class": "special"
+                },
+                "9": {
+                    "name": "Thunderbolt",
+                    "dmg": 90,
+                    "acc": 100,
+                    "type": "electric",
+                    "class": "special"
+                },
+                "10": {
+                    "name": "Earthquake",
+                    "dmg": 100,
+                    "acc": 100,
+                    "type": "ground",
+                    "class": "physical"
+                }
+            },
+            "nick": ""
+        }
+    },
+    "pselected": {
+        "name": "Dugtrio",
+        "level": 26,
+        "link": "http://play.pokemonshowdown.com/sprites/xyani/",
+        "shiny": "No",
+        "rarity": "Common",
+        "chp": 410,
+        "hp": 410,
+        "atk": 11715,
+        "def": 5858,
+        "spatk": 5858,
+        "spdef": 8200,
+        "speed": 1271,
+        "total": 33312,
+        "types": [
+            "ground"
+        ],
+        "gender": "Female",
+        "genders": "\u2640\ufe0f",
+        "s_sh": "",
+        "cxp": 0,
+        "nxp": 27040,
+        "tivs": 68,
+        "hpiv": 11,
+        "atkiv": 11,
+        "defiv": 11,
+        "spatkiv": 11,
+        "spdefiv": 11,
+        "speediv": 13,
+        "biv": 11,
+        "hpev": 0,
+        "atkev": 0,
+        "defev": 0,
+        "spatkev": 0,
+        "spdefev": 0,
+        "speedev": 0,
+        "is_knock": false,
+        "is_market": false,
+        "tmoves": 9,
+        "moves": {
+            "1": {
+                "name": "Body-slam",
+                "dmg": 85,
+                "acc": 100,
+                "type": "normal",
+                "class": "physical"
+            },
+            "2": {
+                "name": "Double-edge",
+                "dmg": 120,
+                "acc": 100,
+                "type": "normal",
+                "class": "physical"
+            },
+            "3": {
+                "name": "Earthquake",
+                "dmg": 100,
+                "acc": 100,
+                "type": "ground",
+                "class": "physical"
+            },
+            "4": {
+                "name": "Dig",
+                "dmg": 80,
+                "acc": 100,
+                "type": "ground",
+                "class": "physical"
+            },
+            "5": {
+                "name": "Tri-attack",
+                "dmg": 80,
+                "acc": 100,
+                "type": "normal",
+                "class": "special"
+            },
+            "6": {
+                "name": "Sludge-bomb",
+                "dmg": 90,
+                "acc": 100,
+                "type": "poison",
+                "class": "special"
+            },
+            "7": {
+                "name": "Uproar",
+                "dmg": 90,
+                "acc": 100,
+                "type": "normal",
+                "class": "special"
+            },
+            "8": {
+                "name": "Earth-power",
+                "dmg": 90,
+                "acc": 100,
+                "type": "ground",
+                "class": "special"
+            },
+            "9": {
+                "name": "Sludge-wave",
+                "dmg": 95,
+                "acc": 100,
+                "type": "poison",
+                "class": "special"
+            }
+        },
+        "nick": "op"
+    },
+    "dex": [
+        "Dugtrio",
+        "Nidorina",
+        "Victreebel",
+        "Kingler",
+        "Machoke",
+        "Venusaur",
+        "Rapidash",
+        "Paras",
+        "Staryu",
+        "Pinsir",
+        "Weezing",
+        "Clefable",
+        "Venomoth",
+        "Kabutops",
+        "Exeggutor",
+        "Electabuzz",
+        "Seaking",
+        "Gyarados",
+        "Tentacruel",
+        "Pidgeotto",
+        "Gastly",
+        "Arcanine",
+        "Kangaskhan",
+        "Kakuna",
+        "Charmeleon",
+        "Onix",
+        "Ditto",
+        "Magikarp",
+        "Starmie",
+        "Persian",
+        "Lapras",
+        "Chansey",
+        "Bellsprout",
+        "Parasect",
+        "Seel",
+        "Graveler",
+        "Muk",
+        "Ekans",
+        "Metapod",
+        "Tentacool",
+        "Machamp",
+        "Ponyta",
+        "Growlithe",
+        "Weedle",
+        "Golem",
+        "Spearow",
+        "Horsea",
+        "Caterpie",
+        "Sandslash",
+        "Lickitung"
+    ]
+}
